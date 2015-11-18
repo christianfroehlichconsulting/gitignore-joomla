@@ -523,3 +523,10 @@
 /index.php
 /joomla.xml
 /*.txt
+
+/components/com_rpl/uploads/*
+/media/com_fpss/src/*
+/media/com_fpss/samples/images/*
+/media/com_fpss/cache/*
+/images/*
+/components/com_rpl/img/captcha/*
